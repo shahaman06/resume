@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.10.24)  25 DEC 2019 17:54
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.10.24)  8 JAN 2020 12:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**resume.tex
-(./resume.tex
+**Resume_Aman_Shah.tex
+(./Resume_Aman_Shah.tex
 LaTeX2e <2017-04-15>
 Babel <3.18> and hyphenation patterns for 3 language(s) loaded.
 (./res.cls
@@ -164,7 +164,7 @@ Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
 File: t1enc.def 2017/04/05 v2.0i Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
 ))
-No file resume.aux.
+No file Resume_Aman_Shah.aux.
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
 LaTeX Font Info:    ... okay on input line 7.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
@@ -237,12 +237,12 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 70.
  ) 
 Here is how much of TeX's memory you used:
  4999 strings out of 494923
- 72634 string characters out of 6180741
+ 72684 string characters out of 6180741
  150209 words of memory out of 5000000
  8325 multiletter control sequences out of 15000+600000
  9723 words of font info for 22 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 29i,8n,26p,233b,316s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 29i,8n,26p,243b,316s stack positions out of 5000i,500n,10000p,200000b,80000s
  </home/shahaman06/.texlive2017/texmf-var/fonts/pk/ljfour/jknappen/ec/ecti100
 0.600pk> </home/shahaman06/.texlive2017/texmf-var/fonts/pk/ljfour/jknappen/ec/e
 crm0700.600pk> </home/shahaman06/.texlive2017/texmf-var/fonts/pk/ljfour/jknappe
@@ -250,7 +250,7 @@ n/ec/ecbx1000.600pk> </home/shahaman06/.texlive2017/texmf-var/fonts/pk/ljfour/j
 knappen/ec/ecrm1000.600pk> </home/shahaman06/.texlive2017/texmf-var/fonts/pk/lj
 four/jknappen/ec/ecbx2074.600pk></usr/share/texlive/texmf-dist/fonts/type1/publ
 ic/amsfonts/cm/cmr10.pfb>
-Output written on resume.pdf (1 page, 52422 bytes).
+Output written on Resume_Aman_Shah.pdf (1 page, 52422 bytes).
 PDF statistics:
  180 PDF objects out of 1000 (max. 8388607)
  38 compressed objects within 1 object stream
